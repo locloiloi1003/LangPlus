@@ -1,30 +1,68 @@
 # LangPlus
-LangPlus is a blockchain-based project focusing on education.
-# LangPlus
 
 LangPlus is a blockchain-based project focusing on education.  
-Our goal is to create a transparent and reliable learning system where students can track their progress and achievements through on-chain records.  
+Our mission is to create a transparent and reliable learning system where students can track their progress and achievements through on-chain records.  
 
-## Features
-- On-chain record of student achievements  
-- Tokenized reward system (LPL Token)  
-- Transparent and immutable credential verification  
-- Demo application for showcasing learning progress  
+By applying blockchain, we ensure:
+- **Fairness**: Learning achievements are immutable and transparent.  
+- **Trust**: Certificates and records are verifiable on-chain.  
+- **Accessibility**: Students and institutions can easily access reliable learning data.  
 
-## Tech Stack
-- Blockchain / Web3  
-- Rust / Solidity (for smart contracts)  
-- React (for demo application)  
+---
 
-## Progress
-Currently, we have completed the project design and token creation.  
-The next step is to integrate smart contracts with a simple demo application to showcase how learning records and achievements can be stored and verified on-chain.  
+## 🚀 Features
+- Tokenized learning rewards (LPL Token).  
+- On-chain storage of student progress and achievements.  
+- Demo dApp for managing and verifying credentials.  
+- Transparent and tamper-proof system for education.  
 
-## Token Info
+---
+
+## 🛠️ Tech Stack
+- **Blockchain**: Solidity, OP_NET, Web3  
+- **Frontend**: React, Next.js  
+- **Backend**: Node.js  
+- **Others**: GitHub, HackQuest  
+
+---
+
+## 📈 Hackathon Progress
+- ✅ Project idea and design completed  
+- ✅ Token creation (LPL)  
+- 🔄 Building demo application with smart contracts  
+- ⏳ Next step: Integration of on-chain learning record verification  
+
+---
+
+## 📂 Repository Structure
+
+---
+
+## 🔑 Token Info
 - **Name**: LangPlus  
 - **Symbol**: LPL  
-- **Supply**: 1,000,000  
+- **Total Supply**: 1,000,000  
 - **Decimals**: 18  
 
-## License
-MIT License
+---
+
+## 🌍 Vision
+LangPlus aims to bring **Web3 transparency** into education, making learning achievements trustworthy, verifiable, and rewarding.  
+Students will not only learn but also **earn while they learn** 🎓💡.  
+
+---
+
+## 👥 Team
+- Core Developer: [Your Name]  
+- Blockchain Engineer: [Optional]  
+- Designer: [Optional]  
+
+---
+
+## 📬 Contact
+- GitHub: [LangPlus Repository](https://github.com/locloiloi1003/LangPlus)  
+- Email: your_email@example.com  
+
+---
+
+✨ *LangPlus — Learn, Earn, and Grow with Web3!*  
